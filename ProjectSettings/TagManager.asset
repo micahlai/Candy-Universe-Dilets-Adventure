@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Rock
+  - Ice
+  - Water
+  - Thunder
+  - Fire
+  - WaterDeath
+  - Dilet
+  - GoblinBox
+  - Nan
+  - Electricity
+  - FireBoss
+  - WaterBoss
+  - ThunderBoss
+  - IceBoss
+  - RockBoss
+  - RockTrigger1
+  - RockTrigger2
+  - NanBoss
+  - Freeze
+  - Boulder
+  - BoulderEnd
+  - Candy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - NorthArrow
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
